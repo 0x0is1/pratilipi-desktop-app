@@ -1,9 +1,11 @@
+<center> <img src="https://static-pratilipicomic.s3.ap-south-1.amazonaws.com/assets/comics-logo-copy-04.png" alt="pratilipi-comics"></img>
+
 # Pratilipi Desktop App
 
 ![version](https://img.shields.io/badge/version-v0.0.1-green)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/0x0is1)
 
-Read and watch comics in more than 6 languages. Unofficial app for
+Read and watch comics in more than 6 languages. Unofficial desktop app for
 pratilipi comics.
 
 ## Previews
@@ -13,6 +15,7 @@ pratilipi comics.
 ![preview-2](./previews/preview-2.png)
 
 ![preview-3](./previews/preview-3.png)
+</center>
 
 ## Authetication
 
@@ -29,6 +32,9 @@ Can be compiled with `qmake` from the source given [here](./src).
 * qmake
 * gcc
 * youtube-dl
+
+## Copyright
+We respect privacy and copyrights, if pratilipi wants to remove this content please reach us by [mail](mailto:://0x0is1@protonmail.com). we will remove the content asap. :)
 
 ## Future development
 
